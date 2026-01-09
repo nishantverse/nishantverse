@@ -85,9 +85,9 @@ Here are some ideas to get you started:
 
 ---
 # 📊 GitHub Stats:
-![](https://nishant-readme-stats.vercel.app/api?username=nishantverse&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nishant-readme-stats.vercel.app/?user=nishantverse&theme=dark&hide_border=false)<br/>
-![](https:/nishant-readme-stats.vercel.app/api/top-langs/?username=nishantverse&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!--![](https://nishant-readme-stats.vercel.app/api?username=nishantverse&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
+![](https://nirzak-streak-stats.vercel.app/?user=nishantverse&theme=dark&hide_border=false)<br/>
+![](https://nishant-readme-stats.vercel.app/api/top-langs/?username=nishantverse&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://nishant-readme-stats.vercel.app/api?username=nishantverse&limit=5&theme=dark&combine_all_yearly_contributions=true)
